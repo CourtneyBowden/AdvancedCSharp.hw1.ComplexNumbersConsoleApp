@@ -1,0 +1,6 @@
+c:\users\courtney\documents\visual studio 2013\Projects\hw1.Bowden\hw1.Bowden\bin\Debug\hw1.Bowden.exe.config
+c:\users\courtney\documents\visual studio 2013\Projects\hw1.Bowden\hw1.Bowden\obj\Debug\hw1.Bowden.csprojResolveAssemblyReference.cache
+c:\users\courtney\documents\visual studio 2013\Projects\hw1.Bowden\hw1.Bowden\bin\Debug\hw1.Bowden.exe
+c:\users\courtney\documents\visual studio 2013\Projects\hw1.Bowden\hw1.Bowden\bin\Debug\hw1.Bowden.pdb
+c:\users\courtney\documents\visual studio 2013\Projects\hw1.Bowden\hw1.Bowden\obj\Debug\hw1.Bowden.exe
+c:\users\courtney\documents\visual studio 2013\Projects\hw1.Bowden\hw1.Bowden\obj\Debug\hw1.Bowden.pdb
